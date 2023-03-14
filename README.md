@@ -3,7 +3,7 @@
 # Jupyter extensionの学習
 
 参照： https://jupyterlab.readthedocs.io/en/stable/extension/extension_tutorial.html  
-尚、jupyterlab_apodのオリジナルREDEME.ｍｄは [こちら](https://github.com/engbjapan/jupyterlab_apod/blob/main/README.md.org)  
+尚、jupyterlab_apodのオリジナルREDEME.ｍｄは [こちら](https://github.com/engbjapan/jupyterlab_apod/blob/main/README.org.md)  
 
 1.gitubに公開でレポジトリを作成しておく  
 https://github.com/<自身のGithubで使われるuser識別名>/jupyterlab_apod
